@@ -1,0 +1,15 @@
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/bin/Debug/net8.0/MyApp.Infrastructure.deps.json
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/bin/Debug/net8.0/MyApp.Infrastructure.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/bin/Debug/net8.0/MyApp.Infrastructure.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.AssemblyInfoInputs.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.AssemblyInfo.cs
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/refint/MyApp.Infrastructure.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/ref/MyApp.Infrastructure.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.csproj.AssemblyReference.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/bin/Debug/net8.0/MyApp.Domain.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/bin/Debug/net8.0/MyApp.Domain.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Infrastructure/obj/Debug/net8.0/MyApp.Infrastructure.csproj.CopyComplete

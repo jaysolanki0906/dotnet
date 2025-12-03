@@ -1,0 +1,11 @@
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/bin/Debug/net8.0/MyApp.Domain.deps.json
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/bin/Debug/net8.0/MyApp.Domain.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/bin/Debug/net8.0/MyApp.Domain.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/MyApp.Domain.AssemblyInfoInputs.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/MyApp.Domain.AssemblyInfo.cs
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/MyApp.Domain.csproj.CoreCompileInputs.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/MyApp.Domain.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/refint/MyApp.Domain.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/MyApp.Domain.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Domain/obj/Debug/net8.0/ref/MyApp.Domain.dll

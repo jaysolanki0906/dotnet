@@ -1,0 +1,11 @@
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/bin/Debug/net8.0/MyApp.Application.deps.json
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/bin/Debug/net8.0/MyApp.Application.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/bin/Debug/net8.0/MyApp.Application.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/MyApp.Application.AssemblyInfoInputs.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/MyApp.Application.AssemblyInfo.cs
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/MyApp.Application.csproj.CoreCompileInputs.cache
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/MyApp.Application.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/refint/MyApp.Application.dll
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/MyApp.Application.pdb
+/home/iconflux/jay/dotnet/practice_project/MyApp.Application/obj/Debug/net8.0/ref/MyApp.Application.dll
